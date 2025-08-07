@@ -3,6 +3,15 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+## -------- Author: Files and Directories --------
+# Directories
+.idea/
+.mvn/
+
+.env
+mvnw
+mvnw.cmd
+## -------- --------------------------- --------
 
 ### STS ###
 .apt_generated
